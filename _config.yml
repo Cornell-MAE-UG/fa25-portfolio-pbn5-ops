@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Panashe Nhenga
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+subtitle                 : Cornell MAE Portfolio - Fall 2025
+name                     : Panashe Nhenga
+description              : Panashe Nhenga - Projects and CV 
+baseurl                  : "fa25-portfolio-pbn5-ops" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
