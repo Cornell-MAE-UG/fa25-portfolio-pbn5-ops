@@ -4,8 +4,6 @@ title: Stopping Little Flies
 category: Engineering
 ---
 
-# Stopping Little Flies
-
 **Team:** Sorry Little Fly  
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
