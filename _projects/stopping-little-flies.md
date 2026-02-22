@@ -4,13 +4,6 @@ title: Stopping Little Flies
 category: Engineering
 ---
 
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes:
----
-
 # Stopping Little Flies
 
 **Team:** Sorry Little Fly  
