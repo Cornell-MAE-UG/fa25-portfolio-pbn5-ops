@@ -1,3 +1,9 @@
+---
+layout: project
+title: Stopping Little Flies
+category: Engineering
+---
+
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
