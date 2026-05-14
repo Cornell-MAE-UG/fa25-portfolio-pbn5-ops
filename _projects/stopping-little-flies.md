@@ -5,9 +5,7 @@ category: Engineering
 ---
 
 
-## <center><span style="background-color:#97bfcc; padding:6px 14px; border-radius:8px;">Exhibit & Client Report</span></center> {#exhibit-and-clientreport}
 
-A number of client-facing deliverables for our project, including our Final Prototype, our Exhibit & Poster, and a written Client Report summarizing our final presentation & conclusions.
 
 **Team:** Sorry Little Fly  
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
