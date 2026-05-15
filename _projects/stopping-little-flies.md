@@ -1,4 +1,8 @@
-
+---
+title: "Stopping Little Flies"
+collection: projects
+permalink: /projects/stopping-little-flies/
+---
 
 # Stopping Little Flies
 
