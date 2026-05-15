@@ -7,7 +7,7 @@ permalink: /projects/stopping-little-flies/
 # Stopping Little Flies
 
 **Team:** Sorry Little Fly  
-**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
+**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
 ## Problem statement
 Spotted lanternflies reproduce rapidly; each female lays 3 egg masses of 30–60 eggs, allowing populations to explode in a single season. SLFs feed on sap, weakening vines, reducing cold hardiness, and potentially killing plants. Current removal methods are labor-intensive, inconsistent, and risk damaging vines. **Impact:** Destroying egg masses reduces SLF reproduction, lowering seasonal infestations and protecting yield and vine health. A plant-safe, scalable tool could be used across vineyards and other sites, targeting the root source of infestations and increasing overall population control.
