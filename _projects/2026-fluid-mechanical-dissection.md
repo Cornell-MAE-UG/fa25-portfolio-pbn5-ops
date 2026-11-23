@@ -4,9 +4,9 @@ title: Fluid-Mechanical Dissection
 description: Fluid-Mechanical Dissection project for MAE coursework
 technologies: [Fluid Mechanics, Mechanical Engineering]
 ---
-
 # Fluid-Mechanical Dissection
 
-This page will document my Fluid-Mechanical Dissection project.
+For our Fluid-Mechanical Dissection project, we are taking apart a window fan to examine how the motor, blades, and housing work together to move air.
 
-Project details, photographs, engineering analysis, and findings will be added as the project progresses.
+
+
